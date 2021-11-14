@@ -1,0 +1,31 @@
+DBBL 
+
+Website Redesign 
+-> Planning and Requirement Anaysis
+-> Design 
+-> Implementation
+-> Maintainence 
+
+
+1. What is the core requirements?
+---- PM -----
+2. Graphic and Content - Ready.
+3. UI & UX Design
+4. Front end Design
+5. DataBase Design
+6. Backend 
+7. Q/A Testing 
+8. Delivery, Maintainence 
+
+
+
+HTML Tag, Attribute 
+CSS Class, Property, Value 
+
+-> Login Page, Registration Page, Forget Password Page
+
+
+
+
+
+

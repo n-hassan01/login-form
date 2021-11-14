@@ -1,0 +1,90 @@
+/* Google Fonts Popins and Open Sans */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+/* Global CSS */
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: 'Poppins', sans-serif;
+}
+h1, h2, h3, h4, h5, h6{
+	font-family: 'Open Sans', sans-serif;
+}
+input{
+	font-family: 'Poppins', sans-serif;
+}
+a{
+	text-decoration: none;
+}
+
+/* Login Page */
+.login-page{
+	background: url(../images/background.jpg) no-repeat center;
+	background-size: cover;
+}
+.login-box{
+	background: rgba(255, 255, 255, .8);
+	padding: 20px;
+	border: 2px solid #f7f7f7;
+	width: 350px;
+	height: 525px;
+	margin: 175px auto 0;
+}
+.avater img{
+	width: 275px;
+	display: block;
+	margin: 20px auto 50px;
+}
+.login-box h2{
+ 	font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.login-form label{
+    font-weight: 500;
+	display: block;
+}
+.form-group{
+	margin-bottom: 15px;
+}
+.form-control{
+    height: 30px;
+    width: 97%;
+    border: 1px solid #c3bfbf;
+    outline: none;
+    padding: 0 5px;
+}
+.btn-login{
+	padding: 6px 40px;
+    font-size: 16px;
+    text-transform: capitalize;
+    background: #0069B5;
+    color: #fff;
+    border: none;
+    transition: 0.3s all ease-in-out;
+}
+.btn-login:hover{
+	background: #3CA4DD;
+	cursor: pointer;
+}
+.action-links{
+	padding: 20px 0 0;
+}
+.action-links ul li{
+	list-style: none;
+	line-height: 28px;;
+}
+.action-links ul li a{
+	color:  #0069B5;
+	transition: 0.3s all ease-in-out;
+}
+.action-links ul li a:hover{
+	padding-left: 5px;
+}
+
+.forget-page{
+	background: url(../images/background.jpg) no-repeat center;
+	background-size: cover;
+}
